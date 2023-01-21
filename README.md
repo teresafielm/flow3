@@ -1,6 +1,6 @@
 # flow3
 
-Este repositorio contiene la actividad para el flow3
+Este repositorio contiene la actividad para el flow3.
 
 Se hizo una interfaz sencilla en Node-RED Con los siguientes nodos: -Inject -Text -gauge -chart
 
